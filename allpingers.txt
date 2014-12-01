@@ -125,6 +125,21 @@ pgpring_rsa = http://pinger.mixmin.net/pgp-rsa.asc
 mixring     = http://pinger.mixmin.net/pubring.mix
 type2list   = http://pinger.mixmin.net/type2.list
 
+[mixmin4k]
+base        = https://www.mixmin.net/echolot/
+rlist       = https://www.mixmin.net/echolot/rlist.txt
+mlist       = https://www.mixmin.net/echolot/mlist.txt
+rlist2      = https://www.mixmin.net/echolot/rlist2.txt
+mlist2      = https://www.mixmin.net/echolot/mlist2.txt
+rlist_html  = https://www.mixmin.net/echolot/rlist.html
+mlist_html  = https://www.mixmin.net/echolot/mlist.html
+rlist2_html = https://www.mixmin.net/echolot/rlist2.html
+mlist2_html = https://www.mixmin.net/echolot/mlist2.html
+pgpring     = https://www.mixmin.net/echolot/pgp-all.asc
+pgpring_rsa = https://www.mixmin.net/echolot/pgp-rsa.asc
+mixring     = https://www.mixmin.net/echolot/pubring.mix
+type2list   = https://www.mixmin.net/echolot/type2.list
+
 [noreply]
 base        = http://www.noreply.org/echolot/
 rlist       = http://www.noreply.org/echolot/rlist.txt
