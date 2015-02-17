@@ -20,21 +20,6 @@ pgpring_rsa = https://www.tahina.priv.at/~cm/stats/pgp-rsa.asc
 mixring     = https://www.tahina.priv.at/~cm/stats/pubring.mix
 type2list   = https://www.tahina.priv.at/~cm/stats/type2.list
 
-[bergman]
-base        = http://bergman.delphy.org/echolot/
-rlist       = http://bergman.delphy.org/echolot/rlist.txt
-mlist       = http://bergman.delphy.org/echolot/mlist.txt
-rlist2      = http://bergman.delphy.org/echolot/rlist2.txt
-mlist2      = http://bergman.delphy.org/echolot/mlist2.txt
-rlist_html  = http://bergman.delphy.org/echolot/rlist.html
-mlist_html  = http://bergman.delphy.org/echolot/mlist.html
-rlist2_html = http://bergman.delphy.org/echolot/rlist2.html
-mlist2_html = http://bergman.delphy.org/echolot/mlist2.html
-pgpring     = http://bergman.delphy.org/echolot/pgp-all.asc
-pgpring_rsa = http://bergman.delphy.org/echolot/pgp-rsa.asc
-mixring     = http://bergman.delphy.org/echolot/pubring.mix
-type2list   = http://bergman.delphy.org/echolot/type2.list
-
 [cmeclax]
 base        = http://ixazon.dynip.com/~cmeclax/
 rlist       = http://ixazon.dynip.com/~cmeclax/rlist.txt
