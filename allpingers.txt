@@ -95,6 +95,21 @@ pgpring_rsa = http://anemone.mooo.com/stats/pgp-rsa.asc
 mixring     = http://anemone.mooo.com/stats/pubring.mix
 type2list   = http://anemone.mooo.com/stats/type2.list
 
+[jeremySSL]
+base        = https://anemone.mooo.com/stats/
+rlist       = https://anemone.mooo.com/stats/rlist.txt
+mlist       = https://anemone.mooo.com/stats/mlist.txt
+rlist2      = https://anemone.mooo.com/stats/rlist2.txt
+mlist2      = https://anemone.mooo.com/stats/mlist2.txt
+rlist_html  = https://anemone.mooo.com/stats/rlist.html
+mlist_html  = https://anemone.mooo.com/stats/mlist.html
+rlist2_html = https://anemone.mooo.com/stats/rlist2.html
+mlist2_html = https://anemone.mooo.com/stats/mlist2.html
+pgpring     = https://anemone.mooo.com/stats/pgp-all.asc
+pgpring_rsa = https://anemone.mooo.com/stats/pgp-rsa.asc
+mixring     = https://anemone.mooo.com/stats/pubring.mix
+type2list   = https://anemone.mooo.com/stats/type2.list
+
 [kroken]
 base        = http://rlist.uni-boeblingen.de/
 rlist       = http://rlist.uni-boeblingen.de/rlist.txt
