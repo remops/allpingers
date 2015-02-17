@@ -1,6 +1,6 @@
 #  A L L   P I N G E R S'   I N D E X
 #
-# Updated: Sun, 15 February 2015
+# Updated: Tue, 17 February 2015
 # This list was compiled by Steve Crook
 # If anything is wrong/broken/missing please mail me
 # at steve@mixmin.net
@@ -34,6 +34,21 @@ pgpring     = https://www.deuxpi.ca/echolot/pgp-all.asc
 pgpring_rsa = https://www.deuxpi.ca/echolot/pgp-rsa.asc
 mixring     = https://www.deuxpi.ca/echolot/pubring.mix
 type2list   = https://www.deuxpi.ca/echolot/type2.list
+
+[fourohninesix]
+base        = http://bergman.delphy.org/stats/
+rlist       = http://bergman.delphy.org/stats/rlist.txt
+mlist       = http://bergman.delphy.org/stats/mlist.txt
+rlist2      = http://bergman.delphy.org/stats/rlist2.txt
+mlist2      = http://bergman.delphy.org/stats/mlist2.txt
+rlist_html  = http://bergman.delphy.org/stats/rlist.html
+mlist_html  = http://bergman.delphy.org/stats/mlist.html
+rlist2_html = http://bergman.delphy.org/stats/rlist2.html
+mlist2_html = http://bergman.delphy.org/stats/mlist2.html
+pgpring     = http://bergman.delphy.org/stats/pgp-all.asc
+pgpring_rsa = http://bergman.delphy.org/stats/pgp-rsa.asc
+mixring     = http://bergman.delphy.org/stats/pubring.mix
+type2list   = http://bergman.delphy.org/stats/type2.list
 
 [hermetix]
 base        = http://www.hermetix.org/echolot/
