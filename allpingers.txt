@@ -50,6 +50,21 @@ pgpring_rsa = http://bergman.delphy.org/stats/pgp-rsa.asc
 mixring     = http://bergman.delphy.org/stats/pubring.mix
 type2list   = http://bergman.delphy.org/stats/type2.list
 
+[frell]
+base        = http://echolot.theremailer.net/
+rlist       = http://echolot.theremailer.net/rlist.txt
+mlist       = http://echolot.theremailer.net/mlist.txt
+rlist2      = http://echolot.theremailer.net/rlist2.txt
+mlist2      = http://echolot.theremailer.net/mlist2.txt
+rlist_html  = http://echolot.theremailer.net/rlist.html
+mlist_html  = http://echolot.theremailer.net/mlist.html
+rlist2_html = http://echolot.theremailer.net/rlist2.html
+mlist2_html = http://echolot.theremailer.net/mlist2.html
+pgpring     = http://echolot.theremailer.net/pgp-all.asc
+pgpring_rsa = http://echolot.theremailer.net/pgp-rsa.asc
+mixring     = http://echolot.theremailer.net/pubring.mix
+type2list   = http://echolot.theremailer.net/type2.list
+
 [hermetix]
 base        = http://www.hermetix.org/echolot/
 rlist       = http://www.hermetix.org/echolot/rlist.txt
