@@ -20,21 +20,6 @@ pgpring_rsa = https://www.tahina.priv.at/~cm/stats/pgp-rsa.asc
 mixring     = https://www.tahina.priv.at/~cm/stats/pubring.mix
 type2list   = https://www.tahina.priv.at/~cm/stats/type2.list
 
-[cmeclax]
-base        = http://ixazon.dynip.com/~cmeclax/
-rlist       = http://ixazon.dynip.com/~cmeclax/rlist.txt
-mlist       = http://ixazon.dynip.com/~cmeclax/mlist.txt
-mlist2      = http://ixazon.dynip.com/~cmeclax/mlist2.txt
-rlist2      = http://ixazon.dynip.com/~cmeclax/rlist2.txt
-mlist_html  = http://ixazon.dynip.com/~cmeclax/mlist.html
-rlist_html  = http://ixazon.dynip.com/~cmeclax/rlist.html
-mlist2_html = http://ixazon.dynip.com/~cmeclax/mlist2.html
-rlist2_html = http://ixazon.dynip.com/~cmeclax/rlist2.html
-pgpring     = http://ixazon.dynip.com/~cmeclax/pubring.asc
-pubring_rsa = http://ixazon.dynip.com/~cmeclax/pubringrsa.asc
-mixring     = http://ixazon.dynip.com/~cmeclax/pubring.mix
-type2list   = http://ixazon.dynip.com/~cmeclax/type2.list
-
 [deuxpi]
 base        = https://www.deuxpi.ca/echolot/
 rlist       = https://www.deuxpi.ca/echolot/rlist.txt
