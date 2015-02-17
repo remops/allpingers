@@ -156,7 +156,7 @@ mixring     = http://www.noreply.org/echolot/pubring.mix
 type2list   = http://www.noreply.org/echolot/type2.list
 
 [paranoia]
-base        = https://remailer.paranoici.org/
+base        = https://remailer.paranoici.org/echolot.html
 rlist       = https://remailer.paranoici.org/rlist.txt
 mlist       = https://remailer.paranoici.org/mlist.txt
 rlist2      = https://remailer.paranoici.org/rlist2.txt
