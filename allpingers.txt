@@ -185,21 +185,6 @@ pgpring_rsa = https://remailer.paranoici.org/pgp-rsa.asc
 mixring     = https://remailer.paranoici.org/pubring.mix
 type2list   = https://remailer.paranoici.org/type2.list
 
-[roance]
-base        = http://www.roance.net/echolot/
-rlist       = http://www.roance.net/echolot/rlist.txt
-mlist       = http://www.roance.net/echolot/mlist.txt
-rlist2      = http://www.roance.net/echolot/rlist2.txt
-mlist2      = http://www.roance.net/echolot/mlist2.txt
-rlist_html  = http://www.roance.net/echolot/rlist.html
-mlist_html  = http://www.roance.net/echolot/mlist.html
-rlist2_html = http://www.roance.net/echolot/rlist2.html
-mlist2_html = http://www.roance.net/echolot/mlist2.html
-pgpring     = http://www.roance.net/echolot/pgp-all.asc
-pgpring_rsa = http://www.roance.net/echolot/pgp-rsa.asc
-mixring     = http://www.roance.net/echolot/pubring.mix
-type2list   = http://www.roance.net/echolot/type2.list
-
 [senshi]
 base        = http://senshiweb.webhop.net/
 rlist2      = http://senshiweb.webhop.net/rlist2.txt
