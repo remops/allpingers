@@ -1,6 +1,6 @@
 #  A L L   P I N G E R S'   I N D E X
 #
-# Updated: Sun, 24 May 2015
+# Updated: Wed, 05 Aug 2015
 # This list was last updated by Steve Crook
 # Please email corrections/issues to: steve@mixmin.net
 
@@ -185,19 +185,19 @@ mixring     = https://remailer.paranoici.org/pubring.mix
 type2list   = https://remailer.paranoici.org/type2.list
 
 [sec3]
-base        = http://sec3.net/echolot.html
-rlist       = http://sec3.net/rlist.txt
-mlist       = http://sec3.net/mlist.txt
-rlist2      = http://sec3.net/rlist2.txt
-mlist2      = http://sec3.net/mlist2.txt
-rlist_html  = http://sec3.net/rlist.html
-mlist_html  = http://sec3.net/mlist.html
-rlist2_html = http://sec3.net/rlist2.html
-mlist2_html = http://sec3.net/mlist2.html
-pgpring     = http://sec3.net/pgp-all.asc
-pgpring_rsa = http://sec3.net/pgp-rsa.asc
-mixring     = http://sec3.net/pubring.mix
-type2list   = http://sec3.net/type2.list
+base        = http://sec3.net/echolot/
+rlist       = http://sec3.net/echolot/rlist.txt
+mlist       = http://sec3.net/echolot/mlist.txt
+rlist2      = http://sec3.net/echolot/rlist2.txt
+mlist2      = http://sec3.net/echolot/mlist2.txt
+rlist_html  = http://sec3.net/echolot/rlist.html
+mlist_html  = http://sec3.net/echolot/mlist.html
+rlist2_html = http://sec3.net/echolot/rlist2.html
+mlist2_html = http://sec3.net/echolot/mlist2.html
+pgpring     = http://sec3.net/echolot/pgp-all.asc
+pgpring_rsa = http://sec3.net/echolot/pgp-rsa.asc
+mixring     = http://sec3.net/echolot/pubring.mix
+type2list   = http://sec3.net/echolot/type2.list
 
 [senshi]
 base        = http://senshiweb.webhop.net/
