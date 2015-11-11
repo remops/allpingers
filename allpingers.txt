@@ -110,49 +110,19 @@ mixring     = http://rlist.uni-boeblingen.de/pubring.mix
 type2list   = http://rlist.uni-boeblingen.de/type2.list
 
 [mixmin]
-base        = http://pinger.mixmin.net/
-rlist       = http://pinger.mixmin.net/rlist.txt
-mlist       = http://pinger.mixmin.net/mlist.txt
-rlist2      = http://pinger.mixmin.net/rlist2.txt
-mlist2      = http://pinger.mixmin.net/mlist2.txt
-rlist_html  = http://pinger.mixmin.net/rlist.html
-mlist_html  = http://pinger.mixmin.net/mlist.html
-rlist2_html = http://pinger.mixmin.net/rlist2.html
-mlist2_html = http://pinger.mixmin.net/mlist2.html
-pgpring     = http://pinger.mixmin.net/pgp-all.asc
-pgpring_rsa = http://pinger.mixmin.net/pgp-rsa.asc
-mixring     = http://pinger.mixmin.net/pubring.mix
-type2list   = http://pinger.mixmin.net/type2.list
-
-[mixmin4096]
-base        = https://www.mixmin.net/echolot/
-rlist       = https://www.mixmin.net/echolot/rlist.txt
-mlist       = https://www.mixmin.net/echolot/mlist.txt
-rlist2      = https://www.mixmin.net/echolot/rlist2.txt
-mlist2      = https://www.mixmin.net/echolot/mlist2.txt
-rlist_html  = https://www.mixmin.net/echolot/rlist.html
-mlist_html  = https://www.mixmin.net/echolot/mlist.html
-rlist2_html = https://www.mixmin.net/echolot/rlist2.html
-mlist2_html = https://www.mixmin.net/echolot/mlist2.html
-pgpring     = https://www.mixmin.net/echolot/pgp-all.asc
-pgpring_rsa = https://www.mixmin.net/echolot/pgp-rsa.asc
-mixring     = https://www.mixmin.net/echolot/pubring.mix
-type2list   = https://www.mixmin.net/echolot/type2.list
-
-[mixmin4k]
-base        = https://www.mixmin.net/echolot/
-rlist       = https://www.mixmin.net/echolot/rlist.txt
-mlist       = https://www.mixmin.net/echolot/mlist.txt
-rlist2      = https://www.mixmin.net/echolot/rlist2.txt
-mlist2      = https://www.mixmin.net/echolot/mlist2.txt
-rlist_html  = https://www.mixmin.net/echolot/rlist.html
-mlist_html  = https://www.mixmin.net/echolot/mlist.html
-rlist2_html = https://www.mixmin.net/echolot/rlist2.html
-mlist2_html = https://www.mixmin.net/echolot/mlist2.html
-pgpring     = https://www.mixmin.net/echolot/pgp-all.asc
-pgpring_rsa = https://www.mixmin.net/echolot/pgp-rsa.asc
-mixring     = https://www.mixmin.net/echolot/pubring.mix
-type2list   = https://www.mixmin.net/echolot/type2.list
+base        = http://www.mixmin.net/echolot/
+rlist       = http://www.mixmin.net/echolot/rlist.txt
+mlist       = http://www.mixmin.net/echolot/mlist.txt
+rlist2      = http://www.mixmin.net/echolot/rlist2.txt
+mlist2      = http://www.mixmin.net/echolot/mlist2.txt
+rlist_html  = http://www.mixmin.net/echolot/rlist.html
+mlist_html  = http://www.mixmin.net/echolot/mlist.html
+rlist2_html = http://www.mixmin.net/echolot/rlist2.html
+mlist2_html = http://www.mixmin.net/echolot/mlist2.html
+pgpring     = http://www.mixmin.net/echolot/pgp-all.asc
+pgpring_rsa = http://www.mixmin.net/echolot/pgp-rsa.asc
+mixring     = http://www.mixmin.net/echolot/pubring.mix
+type2list   = http://www.mixmin.net/echolot/type2.list
 
 [noreply]
 base        = http://www.noreply.org/echolot/
