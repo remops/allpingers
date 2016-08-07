@@ -1,6 +1,6 @@
 #  A L L   P I N G E R S'   I N D E X
 #
-# Updated: Tue, 10 May 2016
+# Updated: Sun, 7 Aug 2016
 # This list was last updated by Steve Crook
 # Please email corrections/issues to: steve@mixmin.net
 
@@ -33,6 +33,15 @@ pgpring     = https://www.tahina.priv.at/~cm/stats/pgp-all.asc
 pgpring_rsa = https://www.tahina.priv.at/~cm/stats/pgp-rsa.asc
 mixring     = https://www.tahina.priv.at/~cm/stats/pubring.mix
 type2list   = https://www.tahina.priv.at/~cm/stats/type2.list
+
+[brabus]
+base        = http://brabus.remailer.org.uk/mix/
+rlist       = http://brabus.remailer.org.uk/mix/rlist.txt
+mlist       = http://brabus.remailer.org.uk/mix/mlist.txt
+rlist_html  = http://brabus.remailer.org.uk/mix/rlist.html
+mlist_html  = http://brabus.remailer.org.uk/mix/mlist.html
+pgpring     = http://brabus.remailer.org.uk/mix/pgp-all.asc
+mixring     = http://brabus.remailer.org.uk/mix/pubring.txt
 
 [deuxpi]
 base        = http://www.deuxpi.ca/echolot/
