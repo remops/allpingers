@@ -1,6 +1,6 @@
 #  A L L   P I N G E R S'   I N D E X
 #
-# Updated: Fri, 19 Aug 2016
+# Updated: Thu, 20 Oct 2016
 # This list was last updated by Steve Crook
 # Please email corrections/issues to: steve@mixmin.net
 
@@ -93,6 +93,21 @@ pgpring     = http://www.hermetix.org/echolot/pgp-all.asc
 pgpring_rsa = http://www.hermetix.org/echolot/pgp-rsa.asc
 mixring     = http://www.hermetix.org/echolot/pubring.mix
 type2list   = http://www.hermetix.org/echolot/type2.list
+
+[holland]
+base        = http://holland.remailer.nl/echolot/
+rlist       = http://holland.remailer.nl/echolot/rlist.txt
+mlist       = http://holland.remailer.nl/echolot/mlist.txt
+rlist2      = http://holland.remailer.nl/echolot/rlist2.txt
+mlist2      = http://holland.remailer.nl/echolot/mlist2.txt
+rlist_html  = http://holland.remailer.nl/echolot/rlist.html
+mlist_html  = http://holland.remailer.nl/echolot/mlist.html
+rlist2_html = http://holland.remailer.nl/echolot/rlist2.html
+mlist2_html = http://holland.remailer.nl/echolot/mlist2.html
+pgpring     = http://holland.remailer.nl/echolot/pgp-all.asc
+pgpring_rsa = http://holland.remailer.nl/echolot/pgp-rsa.asc
+mixring     = http://holland.remailer.nl/echolot/pubring.mix
+type2list   = http://holland.remailer.nl/echolot/type2.list
 
 [jeremy]
 base        = http://anemone.mooo.com/stats/
