@@ -1,23 +1,8 @@
 #  A L L   P I N G E R S'   I N D E X
 #
-# Updated: Thu, 20 Oct 2016
+# Updated: Tue, 29 Nov 2016
 # This list was last updated by Steve Crook
 # Please email corrections/issues to: steve@mixmin.net
-
-[allpings]
-base        = https://www.allpingers.net/echolot/
-rlist       = https://www.allpingers.net/echolot/rlist.txt
-mlist       = https://www.allpingers.net/echolot/mlist.txt
-rlist2      = https://www.allpingers.net/echolot/rlist2.txt
-mlist2      = https://www.allpingers.net/echolot/mlist2.txt
-rlist_html  = https://www.allpingers.net/echolot/rlist.html
-mlist_html  = https://www.allpingers.net/echolot/mlist.html
-rlist2_html = https://www.allpingers.net/echolot/rlist2.html
-mlist2_html = https://www.allpingers.net/echolot/mlist2.html
-pgpring     = https://www.allpingers.net/echolot/pgp-all.asc
-pgpring_rsa = https://www.allpingers.net/echolot/pgp-rsa.asc
-mixring     = https://www.allpingers.net/echolot/pubring.mix
-type2list   = https://www.allpingers.net/echolot/type2.list
 
 [austria]
 base        = https://www.tahina.priv.at/~cm/stats/
