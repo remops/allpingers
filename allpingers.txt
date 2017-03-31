@@ -1,23 +1,23 @@
 #  A L L   P I N G E R S'   I N D E X
 #
-# Updated: Mon, 27 Feb 2017
+# Updated: Thu, 30 Mar 2017
 # This list was last updated by Steve Crook
 # Please email corrections/issues to: steve@mixmin.net
 
 [austria]
-base        = https://www.tahina.priv.at/~cm/stats/
-rlist       = https://www.tahina.priv.at/~cm/stats/rlist.txt
-mlist       = https://www.tahina.priv.at/~cm/stats/mlist.txt
-rlist2      = https://www.tahina.priv.at/~cm/stats/rlist2.txt
-mlist2      = https://www.tahina.priv.at/~cm/stats/mlist2.txt
-rlist_html  = https://www.tahina.priv.at/~cm/stats/rlist.html
-mlist_html  = https://www.tahina.priv.at/~cm/stats/mlist.html
-rlist2_html = https://www.tahina.priv.at/~cm/stats/rlist2.html
-mlist2_html = https://www.tahina.priv.at/~cm/stats/mlist2.html
-pgpring     = https://www.tahina.priv.at/~cm/stats/pgp-all.asc
-pgpring_rsa = https://www.tahina.priv.at/~cm/stats/pgp-rsa.asc
-mixring     = https://www.tahina.priv.at/~cm/stats/pubring.mix
-type2list   = https://www.tahina.priv.at/~cm/stats/type2.list
+base        = http://www.tahina.priv.at/~cm/stats/
+rlist       = http://www.tahina.priv.at/~cm/stats/rlist.txt
+mlist       = http://www.tahina.priv.at/~cm/stats/mlist.txt
+rlist2      = http://www.tahina.priv.at/~cm/stats/rlist2.txt
+mlist2      = http://www.tahina.priv.at/~cm/stats/mlist2.txt
+rlist_html  = http://www.tahina.priv.at/~cm/stats/rlist.html
+mlist_html  = http://www.tahina.priv.at/~cm/stats/mlist.html
+rlist2_html = http://www.tahina.priv.at/~cm/stats/rlist2.html
+mlist2_html = http://www.tahina.priv.at/~cm/stats/mlist2.html
+pgpring     = http://www.tahina.priv.at/~cm/stats/pgp-all.asc
+pgpring_rsa = http://www.tahina.priv.at/~cm/stats/pgp-rsa.asc
+mixring     = http://www.tahina.priv.at/~cm/stats/pubring.mix
+type2list   = http://www.tahina.priv.at/~cm/stats/type2.list
 
 [brabus]
 base        = http://brabus.remailer.org.uk/echolot/
@@ -63,21 +63,6 @@ pgpring     = http://echolot.theremailer.net/pgp-all.asc
 pgpring_rsa = http://echolot.theremailer.net/pgp-rsa.asc
 mixring     = http://echolot.theremailer.net/pubring.mix
 type2list   = http://echolot.theremailer.net/type2.list
-
-[hermetix]
-base        = http://www.hermetix.org/echolot/
-rlist       = http://www.hermetix.org/echolot/rlist.txt
-mlist       = http://www.hermetix.org/echolot/mlist.txt
-rlist2      = http://www.hermetix.org/echolot/rlist2.txt
-mlist2      = http://www.hermetix.org/echolot/mlist2.txt
-rlist_html  = http://www.hermetix.org/echolot/rlist.html
-mlist_html  = http://www.hermetix.org/echolot/mlist.html
-rlist2_html = http://www.hermetix.org/echolot/rlist2.html
-mlist2_html = http://www.hermetix.org/echolot/mlist2.html
-pgpring     = http://www.hermetix.org/echolot/pgp-all.asc
-pgpring_rsa = http://www.hermetix.org/echolot/pgp-rsa.asc
-mixring     = http://www.hermetix.org/echolot/pubring.mix
-type2list   = http://www.hermetix.org/echolot/type2.list
 
 [holland]
 base        = http://holland.remailer.nl/echolot/
