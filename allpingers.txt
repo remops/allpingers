@@ -1,6 +1,6 @@
 #  A L L   P I N G E R S'   I N D E X
 #
-# Updated: Thu, 30 Mar 2017
+# Updated: Fri, 31 Mar 2017
 # This list was last updated by Steve Crook
 # Please email corrections/issues to: steve@mixmin.net
 
@@ -80,19 +80,19 @@ mixring     = http://holland.remailer.nl/echolot/pubring.mix
 type2list   = http://holland.remailer.nl/echolot/type2.list
 
 [kroken]
-base        = http://rlist.uni-boeblingen.de/
-rlist       = http://rlist.uni-boeblingen.de/rlist.txt
-mlist       = http://rlist.uni-boeblingen.de/mlist.txt
-rlist2      = http://rlist.uni-boeblingen.de/rlist2.txt
-mlist2      = http://rlist.uni-boeblingen.de/mlist2.txt
-rlist_html  = http://rlist.uni-boeblingen.de/rlist.html
-mlist_html  = http://rlist.uni-boeblingen.de/mlist.html
-rlist2_html = http://rlist.uni-boeblingen.de/rlist2.html
-mlist2_html = http://rlist.uni-boeblingen.de/mlist2.html
-pgpring     = http://rlist.uni-boeblingen.de/pgp-all.asc
-pgpring_rsa = http://rlist.uni-boeblingen.de/pgp-rsa.asc
-mixring     = http://rlist.uni-boeblingen.de/pubring.mix
-type2list   = http://rlist.uni-boeblingen.de/type2.list
+base        = https://rlist.uni-boeblingen.de/
+rlist       = https://rlist.uni-boeblingen.de/rlist.txt
+mlist       = https://rlist.uni-boeblingen.de/mlist.txt
+rlist2      = https://rlist.uni-boeblingen.de/rlist2.txt
+mlist2      = https://rlist.uni-boeblingen.de/mlist2.txt
+rlist_html  = https://rlist.uni-boeblingen.de/rlist.html
+mlist_html  = https://rlist.uni-boeblingen.de/mlist.html
+rlist2_html = https://rlist.uni-boeblingen.de/rlist2.html
+mlist2_html = https://rlist.uni-boeblingen.de/mlist2.html
+pgpring     = https://rlist.uni-boeblingen.de/pgp-all.asc
+pgpring_rsa = https://rlist.uni-boeblingen.de/pgp-rsa.asc
+mixring     = https://rlist.uni-boeblingen.de/pubring.mix
+type2list   = https://rlist.uni-boeblingen.de/type2.list
 
 [mixmin]
 base        = https://www.mixmin.net/echolot/
