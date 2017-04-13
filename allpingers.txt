@@ -1,6 +1,6 @@
 #  A L L   P I N G E R S'   I N D E X
 #
-# Updated: Fri, 31 Mar 2017
+# Updated: Thu, 13 Apr 2017
 # This list was last updated by Steve Crook
 # Please email corrections/issues to: steve@mixmin.net
 
@@ -63,6 +63,21 @@ pgpring     = http://echolot.theremailer.net/pgp-all.asc
 pgpring_rsa = http://echolot.theremailer.net/pgp-rsa.asc
 mixring     = http://echolot.theremailer.net/pubring.mix
 type2list   = http://echolot.theremailer.net/type2.list
+
+[init]
+base        = http://killinit.pw/echolot/
+rlist       = http://killinit.pw/echolot/rlist.txt
+mlist       = http://killinit.pw/echolot/mlist.txt
+rlist2      = http://killinit.pw/echolot/rlist2.txt
+mlist2      = http://killinit.pw/echolot/mlist2.txt
+rlist_html  = http://killinit.pw/echolot/rlist.html
+mlist_html  = http://killinit.pw/echolot/mlist.html
+rlist2_html = http://killinit.pw/echolot/rlist2.html
+mlist2_html = http://killinit.pw/echolot/mlist2.html
+pgpring     = http://killinit.pw/echolot/pgp-all.asc
+pgpring_rsa = http://killinit.pw/echolot/pgp-rsa.asc
+mixring     = http://killinit.pw/echolot/pubring.mix
+type2list   = http://killinit.pw/echolot/type2.list
 
 [holland]
 base        = http://holland.remailer.nl/echolot/
