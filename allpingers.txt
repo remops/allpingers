@@ -1,8 +1,23 @@
 #  A L L   P I N G E R S'   I N D E X
 #
-# Updated: Sat, 27 May 2017
+# Updated: Sat, 3 Jun 2017
 # This list was last updated by Steve Crook
 # Please email corrections/issues to: steve@mixmin.net
+
+[anon]
+base        = http://www.anonusa.net/echolot/echolot.html
+rlist       = http://www.anonusa.net/echolot/rlist.txt
+mlist       = http://www.anonusa.net/echolot/mlist.txt
+rlist2      = http://www.anonusa.net/echolot/rlist2.txt
+mlist2      = http://www.anonusa.net/echolot/mlist2.txt
+rlist_html  = http://www.anonusa.net/echolot/rlist.html
+mlist_html  = http://www.anonusa.net/echolot/mlist.html
+rlist2_html = http://www.anonusa.net/echolot/rlist2.html
+mlist2_html = http://www.anonusa.net/echolot/mlist2.html
+pgpring     = http://www.anonusa.net/echolot/pgp-all.asc
+pgpring_rsa = http://www.anonusa.net/echolot/pgp-rsa.asc
+mixring     = http://www.anonusa.net/echolot/pubring.mix
+type2list   = http://www.anonusa.net/echolot/type2.list
 
 [austria]
 base        = http://www.tahina.priv.at/~cm/stats/
@@ -78,21 +93,6 @@ pgpring     = http://holland.remailer.nl/echolot/pgp-all.asc
 pgpring_rsa = http://holland.remailer.nl/echolot/pgp-rsa.asc
 mixring     = http://holland.remailer.nl/echolot/pubring.mix
 type2list   = http://holland.remailer.nl/echolot/type2.list
-
-[init]
-base        = http://killinit.pw/echolot/
-rlist       = http://killinit.pw/echolot/rlist.txt
-mlist       = http://killinit.pw/echolot/mlist.txt
-rlist2      = http://killinit.pw/echolot/rlist2.txt
-mlist2      = http://killinit.pw/echolot/mlist2.txt
-rlist_html  = http://killinit.pw/echolot/rlist.html
-mlist_html  = http://killinit.pw/echolot/mlist.html
-rlist2_html = http://killinit.pw/echolot/rlist2.html
-mlist2_html = http://killinit.pw/echolot/mlist2.html
-pgpring     = http://killinit.pw/echolot/pgp-all.asc
-pgpring_rsa = http://killinit.pw/echolot/pgp-rsa.asc
-mixring     = http://killinit.pw/echolot/pubring.mix
-type2list   = http://killinit.pw/echolot/type2.list
 
 [kroken]
 base        = https://rlist.uni-boeblingen.de/
