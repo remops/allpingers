@@ -1,6 +1,6 @@
 #  A L L   P I N G E R S'   I N D E X
 #
-# Updated: Sun, 18 Mar 2018
+# Updated: Sat, 24 Mar 2018
 # This list was last updated by Steve Crook
 # Please email corrections/issues to: steve@mixmin.net
 
@@ -19,21 +19,6 @@ pgpring_rsa = https://apricot.fruiti.org/echolot/pgp-rsa.asc
 mixring     = https://apricot.fruiti.org/echolot/pubring.mix
 type2list   = https://apricot.fruiti.org/echolot/type2.list
 
-[austria]
-base        = http://www.tahina.priv.at/~cm/stats/
-rlist       = http://www.tahina.priv.at/~cm/stats/rlist.txt
-mlist       = http://www.tahina.priv.at/~cm/stats/mlist.txt
-rlist2      = http://www.tahina.priv.at/~cm/stats/rlist2.txt
-mlist2      = http://www.tahina.priv.at/~cm/stats/mlist2.txt
-rlist_html  = http://www.tahina.priv.at/~cm/stats/rlist.html
-mlist_html  = http://www.tahina.priv.at/~cm/stats/mlist.html
-rlist2_html = http://www.tahina.priv.at/~cm/stats/rlist2.html
-mlist2_html = http://www.tahina.priv.at/~cm/stats/mlist2.html
-pgpring     = http://www.tahina.priv.at/~cm/stats/pgp-all.asc
-pgpring_rsa = http://www.tahina.priv.at/~cm/stats/pgp-rsa.asc
-mixring     = http://www.tahina.priv.at/~cm/stats/pubring.mix
-type2list   = http://www.tahina.priv.at/~cm/stats/type2.list
-
 [deuxpi]
 base        = http://www.deuxpi.ca/echolot/
 rlist       = http://www.deuxpi.ca/echolot/rlist.txt
@@ -48,6 +33,21 @@ pgpring     = http://www.deuxpi.ca/echolot/pgp-all.asc
 pgpring_rsa = http://www.deuxpi.ca/echolot/pgp-rsa.asc
 mixring     = http://www.deuxpi.ca/echolot/pubring.mix
 type2list   = http://www.deuxpi.ca/echolot/type2.list
+
+[eurovibes]
+base        = http://www.eurovibes.org/echolot/
+rlist       = http://www.eurovibes.org/echolot/rlist.txt
+mlist       = http://www.eurovibes.org/echolot/mlist.txt
+rlist2      = http://www.eurovibes.org/echolot/rlist2.txt
+mlist2      = http://www.eurovibes.org/echolot/mlist2.txt
+rlist_html  = http://www.eurovibes.org/echolot/rlist.html
+mlist_html  = http://www.eurovibes.org/echolot/mlist.html
+rlist2_html = http://www.eurovibes.org/echolot/rlist2.html
+mlist2_html = http://www.eurovibes.org/echolot/mlist2.html
+pgpring     = http://www.eurovibes.org/echolot/pgp-all.asc
+pgpring_rsa = http://www.eurovibes.org/echolot/pgp-rsa.asc
+mixring     = http://www.eurovibes.org/echolot/pubring.mix
+type2list   = http://www.eurovibes.org/echolot/type2.list
 
 [frell]
 base        = http://echolot.theremailer.net/
