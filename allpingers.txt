@@ -1,6 +1,6 @@
 #  A L L   P I N G E R S'   I N D E X
 #
-# Updated: Sat, 24 Mar 2018
+# Updated: Thu, 14 June 2018
 # This list was last updated by Steve Crook
 # Please email corrections/issues to: steve@mixmin.net
 
@@ -50,19 +50,19 @@ mixring     = http://www.eurovibes.org/echolot/pubring.mix
 type2list   = http://www.eurovibes.org/echolot/type2.list
 
 [frell]
-base        = http://echolot.theremailer.net/
-rlist       = http://echolot.theremailer.net/rlist.txt
-mlist       = http://echolot.theremailer.net/mlist.txt
-rlist2      = http://echolot.theremailer.net/rlist2.txt
-mlist2      = http://echolot.theremailer.net/mlist2.txt
-rlist_html  = http://echolot.theremailer.net/rlist.html
-mlist_html  = http://echolot.theremailer.net/mlist.html
-rlist2_html = http://echolot.theremailer.net/rlist2.html
-mlist2_html = http://echolot.theremailer.net/mlist2.html
-pgpring     = http://echolot.theremailer.net/pgp-all.asc
-pgpring_rsa = http://echolot.theremailer.net/pgp-rsa.asc
-mixring     = http://echolot.theremailer.net/pubring.mix
-type2list   = http://echolot.theremailer.net/type2.list
+base        = https://echolot.theremailer.net/
+rlist       = https://echolot.theremailer.net/rlist.txt
+mlist       = https://echolot.theremailer.net/mlist.txt
+rlist2      = https://echolot.theremailer.net/rlist2.txt
+mlist2      = https://echolot.theremailer.net/mlist2.txt
+rlist_html  = https://echolot.theremailer.net/rlist.html
+mlist_html  = https://echolot.theremailer.net/mlist.html
+rlist2_html = https://echolot.theremailer.net/rlist2.html
+mlist2_html = https://echolot.theremailer.net/mlist2.html
+pgpring     = https://echolot.theremailer.net/pgp-all.asc
+pgpring_rsa = https://echolot.theremailer.net/pgp-rsa.asc
+mixring     = https://echolot.theremailer.net/pubring.mix
+type2list   = https://echolot.theremailer.net/type2.list
 
 [kroken]
 base        = https://rlist.uni-boeblingen.de/
