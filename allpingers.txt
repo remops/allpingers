@@ -1,6 +1,6 @@
 #  A L L   P I N G E R S'   I N D E X
 #
-# Updated: Thu, 14 June 2018
+# Updated: Thu, 21 June 2018
 # This list was last updated by Steve Crook
 # Please email corrections/issues to: steve@mixmin.net
 
@@ -78,6 +78,21 @@ pgpring     = https://rlist.uni-boeblingen.de/pgp-all.asc
 pgpring_rsa = https://rlist.uni-boeblingen.de/pgp-rsa.asc
 mixring     = https://rlist.uni-boeblingen.de/pubring.mix
 type2list   = https://rlist.uni-boeblingen.de/type2.list
+
+[miniguile]
+base        = https://miniguile.com/echolot/
+rlist       = https://miniguile.com/echolot/rlist.txt
+mlist       = https://miniguile.com/echolot/mlist.txt
+rlist2      = https://miniguile.com/echolot/rlist2.txt
+mlist2      = https://miniguile.com/echolot/mlist2.txt
+rlist_html  = https://miniguile.com/echolot/rlist.html
+mlist_html  = https://miniguile.com/echolot/mlist.html
+rlist2_html = https://miniguile.com/echolot/rlist2.html
+mlist2_html = https://miniguile.com/echolot/mlist2.html
+pgpring     = https://miniguile.com/echolot/pgp-all.asc
+pgpring_rsa = https://miniguile.com/echolot/pgp-rsa.asc
+mixring     = https://miniguile.com/echolot/pubring.mix
+type2list   = https://miniguile.com/echolot/type2.list
 
 [mixmin]
 base        = https://www.mixmin.net/echolot/
