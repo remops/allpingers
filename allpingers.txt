@@ -1,6 +1,6 @@
 #  A L L   P I N G E R S'   I N D E X
 #
-# Updated: Thu, 21 June 2018
+# Updated: Tue, 21 Aug 2018
 # This list was last updated by Steve Crook
 # Please email corrections/issues to: steve@mixmin.net
 
@@ -18,6 +18,21 @@ pgpring     = https://apricot.fruiti.org/echolot/pgp-all.asc
 pgpring_rsa = https://apricot.fruiti.org/echolot/pgp-rsa.asc
 mixring     = https://apricot.fruiti.org/echolot/pubring.mix
 type2list   = https://apricot.fruiti.org/echolot/type2.list
+
+[austria]
+base        = https://www.tahina.priv.at/~cm/stats/
+rlist       = https://www.tahina.priv.at/~cm/stats/rlist.txt
+mlist       = https://www.tahina.priv.at/~cm/stats/mlist.txt
+rlist2      = https://www.tahina.priv.at/~cm/stats/rlist2.txt
+mlist2      = https://www.tahina.priv.at/~cm/stats/mlist2.txt
+rlist_html  = https://www.tahina.priv.at/~cm/stats/rlist.html
+mlist_html  = https://www.tahina.priv.at/~cm/stats/mlist.html
+rlist2_html = https://www.tahina.priv.at/~cm/stats/rlist2.html
+mlist2_html = https://www.tahina.priv.at/~cm/stats/mlist2.html
+pgpring     = https://www.tahina.priv.at/~cm/stats/pgp-all.asc
+pgpring_rsa = https://www.tahina.priv.at/~cm/stats/pgp-rsa.asc
+mixring     = https://www.tahina.priv.at/~cm/stats/pubring.mix
+type2list   = https://www.tahina.priv.at/~cm/stats/type2.list
 
 [deuxpi]
 base        = http://www.deuxpi.ca/echolot/
