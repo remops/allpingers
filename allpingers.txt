@@ -1,6 +1,6 @@
 #  A L L   P I N G E R S'   I N D E X
 #
-# Updated: Wed, 22 Aug 2018
+# Updated: Tue, 10 Sep 2018
 # This list was last updated by Steve Crook
 # Please email corrections/issues to: steve@mixmin.net
 
@@ -33,6 +33,21 @@ pgpring     = https://www.tahina.priv.at/~cm/stats/pgp-all.asc
 pgpring_rsa = https://www.tahina.priv.at/~cm/stats/pgp-rsa.asc
 mixring     = https://www.tahina.priv.at/~cm/stats/pubring.mix
 type2list   = https://www.tahina.priv.at/~cm/stats/type2.list
+
+[deuxpi]
+base        = https://www.deuxpi.ca/echolot/
+rlist       = https://www.deuxpi.ca/echolot/rlist.txt
+mlist       = https://www.deuxpi.ca/echolot/mlist.txt
+rlist2      = https://www.deuxpi.ca/echolot/rlist2.txt
+mlist2      = https://www.deuxpi.ca/echolot/mlist2.txt
+rlist_html  = https://www.deuxpi.ca/echolot/rlist.html
+mlist_html  = https://www.deuxpi.ca/echolot/mlist.html
+rlist2_html = https://www.deuxpi.ca/echolot/rlist2.html
+mlist2_html = https://www.deuxpi.ca/echolot/mlist2.html
+pgpring     = https://www.deuxpi.ca/echolot/pgp-all.asc
+pgpring_rsa = https://www.deuxpi.ca/echolot/pgp-rsa.asc
+mixring     = https://www.deuxpi.ca/echolot/pubring.mix
+type2list   = https://deuxpi.ca/echolot/type2.list
 
 [eurovibes]
 base        = http://www.eurovibes.org/echolot/
