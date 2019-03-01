@@ -1,16 +1,16 @@
-Last update: Thu Feb 28 06:44:45 UTC 2019 For info on fields see: https://sec3.net/misc/TLS-info.html
+Last update: Fri Mar  1 06:44:48 UTC 2019 For info on fields see: https://sec3.net/misc/TLS-info.html
 austria=remailer.privacy.at,0,yes,no,no,no
 banana=fleegle.mixmin.net,10,yes,yes,no,yes
 ciambella=www1.miniguile.com,10,yes,no,no,no
-congeries=rhea.easily.co.uk,10,no,no,no,no
 congeries=congeries.org.uk,9,yes,no,no,no
+congeries=rhea.easily.co.uk,10,no,no,no,no
 devurandom=mail.anonymitaet-im-inter.net,10,yes,no,no,no
 dizum=smtp.dizum.com,10,yes,no,no,no
 eurovibes=mara.eurovibes.org,10,yes,no,no,no
 fotonl1=foto.nl1.torservers.net,0,yes,no,no,no
 freierede=freie-re.de,0,yes,no,no,no
-frell=bshc44ac76q3kskw.onion,5,N/A,no,no,no,Invalid argument
 frell=mail2.frell.eu.org,10,yes,yes,no,yes
+frell=bshc44ac76q3kskw.onion,5,N/A,no,no,no,Invalid argument
 frell2=bshc44ac76q3kskw.onion,5,N/A,no,no,no,Invalid argument
 frell2=mail2.frell.eu.org,10,yes,yes,no,yes
 haph=denk.haph.org,10,yes,no,no,no
