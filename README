@@ -1,4 +1,6 @@
-allpingers.txt
+This repository contains:
 
-This repository contains the XML formatted allpingers file interpreted by
-Mixmaster to locate stats sources.
+allpingers.txt - An XML formatted file interpreted by Mixmaster to locate stats sources.
+
+mix.tls - A file used by the popular QSL remailer client and associated with allpingers.txt
+          which tracks the SMTP ports and TLS capabilities of each remailer in the network.
