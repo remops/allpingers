@@ -1,4 +1,4 @@
-Last update: Mon May 27 05:41:01 UTC 2019 For info on fields see: https://sec3.net/misc/TLS-info.html
+Last update: Sat Jun 29 05:41:02 UTC 2019 For info on fields see: https://sec3.net/misc/TLS-info.html
 austria=remailer.privacy.at,0,yes,no,no,no
 banana=fleegle.mixmin.net,10,yes,yes,no,yes
 cloaked=esn.cloaked.pw,5,yes,yes,no,yes
@@ -8,8 +8,8 @@ devurandom=mail.anonymitaet-im-inter.net,10,yes,no,no,no
 dizum=smtp.dizum.com,10,yes,no,no,no
 eurovibes=mara.eurovibes.org,10,yes,no,no,no
 freierede=freie-re.de,0,yes,no,no,no
-frell=bshc44ac76q3kskw.onion,5,N/A,no,no,no,Invalid argument
 frell=mail2.frell.eu.org,10,yes,yes,yes,yes
+frell=bshc44ac76q3kskw.onion,5,N/A,no,no,no,Invalid argument
 frell2=mail2.frell.eu.org,10,yes,yes,yes,yes
 frell2=bshc44ac76q3kskw.onion,5,N/A,no,no,no,Invalid argument
 hsub=fleegle.mixmin.net,10,yes,yes,no,yes
@@ -18,12 +18,11 @@ kreti=mail.hoi-polloi.org,10,yes,yes,yes,no
 kroken=rooty.uni-boeblingen.de,0,yes,no,no,no
 middleman=remailer.online,0,yes,no,no,no
 paranoia=remailer.paranoici.org,10,yes,yes,yes,no
-paranoia=mx1.investici.org,50,no,no,no,no
-paranoia=mx5.investici.org,50,N/A,no,no,no,Invalid argument
+paranoia=mx1.investici.org,50,yes,yes,yes,no
 redjohn=mail.redjohn.net,0,yes,no,no,no
 roance=roxy.roance.net,0,yes,yes,no,yes
 slow=fleegle.mixmin.net,10,yes,yes,no,yes
-tncmm=tncsrv05.tnetconsulting.net,20,yes,no,no,no
 tncmm=tarbaby.junkemailfilter.com,99,yes,yes,yes,no
-tncmm=tncsrv06.tnetconsulting.net,15,yes,yes,yes,yes
+tncmm=tncsrv05.tnetconsulting.net,20,yes,no,no,no
 tncmm=graymail.tnetconsulting.net,10,N/A,no,no,no,Connection refused
+tncmm=tncsrv06.tnetconsulting.net,15,yes,yes,yes,yes
