@@ -1,4 +1,4 @@
-Last update: Sat Jun 29 05:41:02 UTC 2019 For info on fields see: https://sec3.net/misc/TLS-info.html
+Last update: Sat Sep  7 05:41:00 UTC 2019 For info on fields see: https://sec3.net/misc/TLS-info.html
 austria=remailer.privacy.at,0,yes,no,no,no
 banana=fleegle.mixmin.net,10,yes,yes,no,yes
 cloaked=esn.cloaked.pw,5,yes,yes,no,yes
@@ -7,11 +7,10 @@ congeries=congeries.org.uk,9,yes,no,no,no
 devurandom=mail.anonymitaet-im-inter.net,10,yes,no,no,no
 dizum=smtp.dizum.com,10,yes,no,no,no
 eurovibes=mara.eurovibes.org,10,yes,no,no,no
-freierede=freie-re.de,0,yes,no,no,no
-frell=mail2.frell.eu.org,10,yes,yes,yes,yes
 frell=bshc44ac76q3kskw.onion,5,N/A,no,no,no,Invalid argument
-frell2=mail2.frell.eu.org,10,yes,yes,yes,yes
+frell=mail2.frell.eu.org,10,yes,yes,yes,yes
 frell2=bshc44ac76q3kskw.onion,5,N/A,no,no,no,Invalid argument
+frell2=mail2.frell.eu.org,10,yes,yes,yes,yes
 hsub=fleegle.mixmin.net,10,yes,yes,no,yes
 inwtx=mail.inwtx.net,10,yes,yes,no,yes
 kreti=mail.hoi-polloi.org,10,yes,yes,yes,no
@@ -23,6 +22,6 @@ redjohn=mail.redjohn.net,0,yes,no,no,no
 roance=roxy.roance.net,0,yes,yes,no,yes
 slow=fleegle.mixmin.net,10,yes,yes,no,yes
 tncmm=tarbaby.junkemailfilter.com,99,yes,yes,yes,no
-tncmm=tncsrv05.tnetconsulting.net,20,yes,no,no,no
-tncmm=graymail.tnetconsulting.net,10,N/A,no,no,no,Connection refused
 tncmm=tncsrv06.tnetconsulting.net,15,yes,yes,yes,yes
+tncmm=graymail.tnetconsulting.net,10,N/A,no,no,no,Connection refused
+tncmm=tncsrv05.tnetconsulting.net,20,yes,no,no,no
