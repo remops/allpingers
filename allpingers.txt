@@ -1,6 +1,6 @@
 #  A L L   P I N G E R S'   I N D E X
 #
-# Updated: Wed, 22 Jan 2020
+# Updated: Sat, 25 Jan 2020
 # This list was last updated by Steve Crook
 # Please email corrections/issues to: steve@mixmin.net
 #
@@ -19,6 +19,21 @@ pgpring     = https://apricot.fruiti.org/echolot/pgp-all.asc
 pgpring_rsa = https://apricot.fruiti.org/echolot/pgp-rsa.asc
 mixring     = https://apricot.fruiti.org/echolot/pubring.mix
 type2list   = https://apricot.fruiti.org/echolot/type2.list
+
+[borked]
+base        = https://pinger.borked.net/
+rlist       = https://pinger.borked.net/rlist.txt
+mlist       = https://pinger.borked.net/mlist.txt
+rlist2      = https://pinger.borked.net/rlist2.txt
+mlist2      = https://pinger.borked.net/mlist2.txt
+rlist_html  = https://pinger.borked.net/rlist.html
+mlist_html  = https://pinger.borked.net/mlist.html
+rlist2_html = https://pinger.borked.net/rlist2.html
+mlist2_html = https://pinger.borked.net/mlist2.html
+pgpring     = https://pinger.borked.net/pgp-all.asc
+pgpring_rsa = https://pinger.borked.net/pgp-rsa.asc
+mixring     = https://pinger.borked.net/pubring.mix
+type2list   = https://pinger.borked.net/type2.list
 
 [deuxpi]
 base        = https://www.deuxpi.ca/echolot/
