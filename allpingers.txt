@@ -1,6 +1,6 @@
 #  A L L   P I N G E R S'   I N D E X
 #
-# Updated: Thu, 19 Mar 2020
+# Updated: Thu, 30 Apr 2020
 # This list was last updated by Steve Crook
 # Please email corrections/issues to: steve@mixmin.net
 #
@@ -49,21 +49,6 @@ pgpring     = https://www.deuxpi.ca/echolot/pgp-all.asc
 pgpring_rsa = https://www.deuxpi.ca/echolot/pgp-rsa.asc
 mixring     = https://www.deuxpi.ca/echolot/pubring.mix
 type2list   = https://www.deuxpi.ca/echolot/type2.list
-
-[eurovibes]
-base        = http://www.eurovibes.org/echolot/
-rlist       = http://www.eurovibes.org/echolot/rlist.txt
-mlist       = http://www.eurovibes.org/echolot/mlist.txt
-rlist2      = http://www.eurovibes.org/echolot/rlist2.txt
-mlist2      = http://www.eurovibes.org/echolot/mlist2.txt
-rlist_html  = http://www.eurovibes.org/echolot/rlist.html
-mlist_html  = http://www.eurovibes.org/echolot/mlist.html
-rlist2_html = http://www.eurovibes.org/echolot/rlist2.html
-mlist2_html = http://www.eurovibes.org/echolot/mlist2.html
-pgpring     = http://www.eurovibes.org/echolot/pgp-all.asc
-pgpring_rsa = http://www.eurovibes.org/echolot/pgp-rsa.asc
-mixring     = http://www.eurovibes.org/echolot/pubring.mix
-type2list   = http://www.eurovibes.org/echolot/type2.list
 
 [kroken]
 base        = http://rlist.uni-boeblingen.de/
