@@ -1,6 +1,6 @@
 #  A L L   P I N G E R S'   I N D E X
 #
-# Updated: Thu, 30 Apr 2020
+# Updated: Tue, 08 Sep 2020
 # This list was last updated by Steve Crook
 # Please email corrections/issues to: steve@mixmin.net
 #
@@ -118,3 +118,19 @@ mlist2      = http://senshiweb.webhop.net/mlist2.txt
 mlist_html  = http://senshiweb.webhop.net/mlist.html
 mixring     = http://senshiweb.webhop.net/pubring.mix
 type2list   = http://senshiweb.webhop.net/type2.lis
+
+[zip2]
+base        = https://zip2.in/echolot/
+rlist       = https://zip2.in/echolot/rlist.txt
+mlist       = https://zip2.in/echolot/mlist.txt
+rlist2      = https://zip2.in/echolot/rlist2.txt
+mlist2      = https://zip2.in/echolot/mlist2.txt
+rlist_html  = https://zip2.in/echolot/rlist.html
+mlist_html  = https://zip2.in/echolot/mlist.html
+rlist2_html = https://zip2.in/echolot/rlist2.html
+mlist2_html = https://zip2.in/echolot/mlist2.html
+pgpring     = https://zip2.in/echolot/pgp-all.asc
+pgpring_rsa = https://zip2.in/echolot/pgp-rsa.asc
+mixring     = https://zip2.in/echolot/pubring.mix
+type2list   = https://zip2.in/echolot/type2.list
+
