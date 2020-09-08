@@ -66,6 +66,22 @@ pgpring_rsa = https://echolot.anonymitaet-im-inter.net/pgp-rsa.asc
 mixring     = https://echolot.anonymitaet-im-inter.net/pubring.mix
 type2list   = https://echolot.anonymitaet-im-inter.net/type2.list
 
+[devurandomonion]
+base        = https://p3rnatce6zft54dsovcuexn3s5jv3dnh4kqsw5eypz46ji5eidxem5qd.onion/
+rlist       = https://p3rnatce6zft54dsovcuexn3s5jv3dnh4kqsw5eypz46ji5eidxem5qd.onion/rlist.txt
+mlist       = https://p3rnatce6zft54dsovcuexn3s5jv3dnh4kqsw5eypz46ji5eidxem5qd.onion/mlist.txt
+rlist2      = https://p3rnatce6zft54dsovcuexn3s5jv3dnh4kqsw5eypz46ji5eidxem5qd.onion/rlist2.txt
+mlist2      = https://p3rnatce6zft54dsovcuexn3s5jv3dnh4kqsw5eypz46ji5eidxem5qd.onion/mlist2.txt
+rlist_html  = https://p3rnatce6zft54dsovcuexn3s5jv3dnh4kqsw5eypz46ji5eidxem5qd.onion/rlist.html
+mlist_html  = https://p3rnatce6zft54dsovcuexn3s5jv3dnh4kqsw5eypz46ji5eidxem5qd.onion/mlist.html
+rlist2_html = https://p3rnatce6zft54dsovcuexn3s5jv3dnh4kqsw5eypz46ji5eidxem5qd.onion/rlist2.html
+mlist2_html = https://p3rnatce6zft54dsovcuexn3s5jv3dnh4kqsw5eypz46ji5eidxem5qd.onion/mlist2.html
+pgpring     = https://p3rnatce6zft54dsovcuexn3s5jv3dnh4kqsw5eypz46ji5eidxem5qd.onion/pgp-all.asc
+pgpring_rsa = https://p3rnatce6zft54dsovcuexn3s5jv3dnh4kqsw5eypz46ji5eidxem5qd.onion/pgp-rsa.asc
+mixring     = https://p3rnatce6zft54dsovcuexn3s5jv3dnh4kqsw5eypz46ji5eidxem5qd.onion/pubring.mix
+type2list   = https://p3rnatce6zft54dsovcuexn3s5jv3dnh4kqsw5eypz46ji5eidxem5qd.onion/type2.list
+
+
 [kroken]
 base        = http://rlist.uni-boeblingen.de/
 rlist       = http://rlist.uni-boeblingen.de/rlist.txt
