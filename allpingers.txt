@@ -50,6 +50,22 @@ pgpring_rsa = https://www.deuxpi.ca/echolot/pgp-rsa.asc
 mixring     = https://www.deuxpi.ca/echolot/pubring.mix
 type2list   = https://www.deuxpi.ca/echolot/type2.list
 
+
+[devurandom]
+base        = https://echolot.anonymitaet-im-inter.net/
+rlist       = https://echolot.anonymitaet-im-inter.net/rlist.txt
+mlist       = https://echolot.anonymitaet-im-inter.net/mlist.txt
+rlist2      = https://echolot.anonymitaet-im-inter.net/rlist2.txt
+mlist2      = https://echolot.anonymitaet-im-inter.net/mlist2.txt
+rlist_html  = https://echolot.anonymitaet-im-inter.net/rlist.html
+mlist_html  = https://echolot.anonymitaet-im-inter.net/mlist.html
+rlist2_html = https://echolot.anonymitaet-im-inter.net/rlist2.html
+mlist2_html = https://echolot.anonymitaet-im-inter.net/mlist2.html
+pgpring     = https://echolot.anonymitaet-im-inter.net/pgp-all.asc
+pgpring_rsa = https://echolot.anonymitaet-im-inter.net/pgp-rsa.asc
+mixring     = https://echolot.anonymitaet-im-inter.net/pubring.mix
+type2list   = https://echolot.anonymitaet-im-inter.net/type2.list
+
 [kroken]
 base        = http://rlist.uni-boeblingen.de/
 rlist       = http://rlist.uni-boeblingen.de/rlist.txt
