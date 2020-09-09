@@ -1,6 +1,6 @@
 #  A L L   P I N G E R S'   I N D E X
 #
-# Updated: Tue, 08 Sep 2020
+# Updated: Wed, 09 Sep 2020
 # This list was last updated by Steve Crook
 # Please email corrections/issues to: steve@mixmin.net
 #
@@ -50,7 +50,6 @@ pgpring_rsa = https://www.deuxpi.ca/echolot/pgp-rsa.asc
 mixring     = https://www.deuxpi.ca/echolot/pubring.mix
 type2list   = https://www.deuxpi.ca/echolot/type2.list
 
-
 [devurandom]
 base        = https://echolot.anonymitaet-im-inter.net/
 rlist       = https://echolot.anonymitaet-im-inter.net/rlist.txt
@@ -80,7 +79,6 @@ pgpring     = https://p3rnatce6zft54dsovcuexn3s5jv3dnh4kqsw5eypz46ji5eidxem5qd.o
 pgpring_rsa = https://p3rnatce6zft54dsovcuexn3s5jv3dnh4kqsw5eypz46ji5eidxem5qd.onion/pgp-rsa.asc
 mixring     = https://p3rnatce6zft54dsovcuexn3s5jv3dnh4kqsw5eypz46ji5eidxem5qd.onion/pubring.mix
 type2list   = https://p3rnatce6zft54dsovcuexn3s5jv3dnh4kqsw5eypz46ji5eidxem5qd.onion/type2.list
-
 
 [kroken]
 base        = http://rlist.uni-boeblingen.de/
