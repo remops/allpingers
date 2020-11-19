@@ -1,7 +1,7 @@
-Last update: Tue Nov 17 06:45:32 UTC 2020 For info on fields see: https://www.sec3.net/misc/TLS-info.html
+Last update: Thu Nov 19 06:45:46 UTC 2020 For info on fields see: https://www.sec3.net/misc/TLS-info.html
 austria=remailer.privacy.at,0,yes,no,no,no
 banana=fleegle.mixmin.net,10,yes,yes,no,yes
-beaufusil=en.beaufusil.com,5,yes,no,no,no
+beaufusil=en.beaufusil.com,0,yes,no,no,no
 cloaked=esnake.cloaked.pw,5,yes,yes,no,yes
 devurandom=mail.anonymitaet-im-inter.net,10,yes,no,no,no
 dizum=smtp.dizum.com,10,yes,no,no,no
