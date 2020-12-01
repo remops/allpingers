@@ -1,4 +1,4 @@
-Last update: Tue Dec 01 06:45:55 UTC 2020 For info on fields see: https://www.sec3.net/misc/TLS-info.html
+Last update: Tue Dec  1 06:45:36 UTC 2020 For info on fields see: https://www.sec3.net/misc/TLS-info.html
 austria=remailer.privacy.at,0,yes,no,no,no
 banana=fleegle.mixmin.net,10,yes,yes,no,yes
 beaufusil=en.beaufusil.com,0,yes,no,no,no
@@ -18,8 +18,8 @@ paranoia=remailer.paranoici.org,10,yes,yes,yes,no
 redjohn=mail.redjohn.net,0,yes,no,no,no
 sfax=sfax.slugish.net,5,yes,yes,no,yes
 slow=fleegle.mixmin.net,10,yes,yes,no,yes
-tncmm=tncsrv05.tnetconsulting.net,20,yes,no,yes,no
 tncmm=tarbaby.junkemailfilter.com,99,yes,yes,yes,no
+tncmm=tncsrv05.tnetconsulting.net,20,yes,no,yes,no
 tncmm=tncsrv06.tnetconsulting.net,15,yes,yes,yes,yes
 tncmm=graymail.tnetconsulting.net,10,N/A,no,no,no,Connection refused
 zip2=mail.zip2.in,0,no,no,no,no
