@@ -1,0 +1,34 @@
+
+++++++++++++++  AN IMPORTANT NOTE FOR ALL ECHOLOT PINGER OPERATORS  ++++++++++++++++
+
+Some of you will have noticed that your Cypherpunk stats and keyrings
+are broken. Your keyrings may be empty. Your rlist*.html pages may be blank
+or may only list 1 or 2 remailers.
+
+The reason for this is that you likely upgraded your server's GnuPG version
+to 2.x.x and your current Echolot installation expects GnuPG v1.4.x and
+therefore cannot recognize the new GPG UIDs and keyrings.
+
+There is a fix for this. It is a fix to the file ~/echolot/Echolot/Conf.pm
+created by Zax in 2017.
+
+Zax hosts his own repository of Palfrader's Echolot program here
+
+https://github.com/crooks/echolot
+
+and I recommend that you use this modern version of Echolot in the future.
+
+To review the code of Zax's modification to Echolot/Conf.pm see:
+
+https://github.com/crooks/echolot/commit/090a59506113e414097d83fe67cd9041edf43811
+
+The file Conf.pm in its modified form can be downloaded here:
+
+https://raw.githubusercontent.com/crooks/echolot/master/Echolot/Conf.pm
+
+Swap out your old Conf.pm with this modified one, restart Echolot program,
+and your Cpunk pings should begin working again.
+
+
+SEC3
+pinger-admin AT sec3.net
