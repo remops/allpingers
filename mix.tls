@@ -1,12 +1,11 @@
-Last update: Sun Dec 13 06:45:34 UTC 2020 For info on fields see: https://www.sec3.net/misc/TLS-info.html
+Last update: Mon Dec 21 06:45:15 UTC 2020 For info on fields see: https://www.sec3.net/misc/TLS-info.html
 austria=remailer.privacy.at,0,yes,no,no,no
 banana=fleegle.mixmin.net,10,yes,yes,no,yes
-beaufusil=en.beaufusil.com,0,yes,no,no,no
 cloaked=esnake.cloaked.pw,5,yes,yes,no,yes
 devurandom=mail.anonymitaet-im-inter.net,10,yes,no,no,no
 dizum=smtp.dizum.com,10,yes,no,no,no
-frell=bshc44ac76q3kskw.onion,5,N/A,no,no,no,Invalid argument
 frell=mail2.frell.eu.org,10,yes,yes,yes,yes
+frell=bshc44ac76q3kskw.onion,5,N/A,no,no,no,Invalid argument
 hsub=fleegle.mixmin.net,10,yes,yes,no,yes
 incog=mail.mixport.xyz,1,yes,yes,no,yes
 inwtx=mail.mixharbor.xyz,1,yes,yes,no,yes
@@ -20,8 +19,8 @@ paranoia=remailer.paranoici.org,10,yes,yes,yes,no
 redjohn=mail.redjohn.net,0,yes,no,no,no
 sfax=sfax.slugish.net,5,yes,yes,no,yes
 slow=fleegle.mixmin.net,10,yes,yes,no,yes
-tncmm=tncsrv05.tnetconsulting.net,20,yes,no,yes,no
-tncmm=tncsrv06.tnetconsulting.net,15,yes,yes,yes,yes
 tncmm=graymail.tnetconsulting.net,10,N/A,no,no,no,Connection refused
+tncmm=tncsrv06.tnetconsulting.net,15,yes,yes,yes,yes
 tncmm=tarbaby.junkemailfilter.com,99,yes,yes,yes,no
+tncmm=tncsrv05.tnetconsulting.net,20,yes,no,yes,no
 zip2=mail.zip2.in,0,no,no,no,no
