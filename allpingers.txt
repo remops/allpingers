@@ -1,6 +1,6 @@
 #  A L L   P I N G E R S'   I N D E X
 #
-# Updated: Fri, 11 Dec 2020
+# Updated: Mon, 28 Dec 2020
 # This list was last updated by Steve Crook
 # Please email corrections/issues to: steve@mixmin.net
 #
@@ -95,21 +95,6 @@ pgpring_rsa = http://echolot.theremailer.net/pgp-rsa.asc
 mixring     = http://echolot.theremailer.net/pubring.mix
 type2list   = http://echolot.theremailer.net/type2.list
 
-[kroken]
-base        = http://rlist.uni-boeblingen.de/
-rlist       = http://rlist.uni-boeblingen.de/rlist.txt
-mlist       = http://rlist.uni-boeblingen.de/mlist.txt
-rlist2      = http://rlist.uni-boeblingen.de/rlist2.txt
-mlist2      = http://rlist.uni-boeblingen.de/mlist2.txt
-rlist_html  = http://rlist.uni-boeblingen.de/rlist.html
-mlist_html  = http://rlist.uni-boeblingen.de/mlist.html
-rlist2_html = http://rlist.uni-boeblingen.de/rlist2.html
-mlist2_html = http://rlist.uni-boeblingen.de/mlist2.html
-pgpring     = http://rlist.uni-boeblingen.de/pgp-all.asc
-pgpring_rsa = http://rlist.uni-boeblingen.de/pgp-rsa.asc
-mixring     = http://rlist.uni-boeblingen.de/pubring.mix
-type2list   = http://rlist.uni-boeblingen.de/type2.list
-
 [mixmin]
 base        = https://www.mixmin.net/echolot/
 rlist       = https://www.mixmin.net/echolot/rlist.txt
@@ -154,15 +139,6 @@ pgpring     = https://sec3.net/echolot/pgp-all.asc
 pgpring_rsa = https://sec3.net/echolot/pgp-rsa.asc
 mixring     = https://sec3.net/echolot/pubring.mix
 type2list   = https://sec3.net/echolot/type2.list
-
-[senshi]
-base        = http://senshiweb.webhop.net
-rlist2      = http://senshiweb.webhop.net/rlist2.txt
-rlist_html  = http://senshiweb.webhop.net/rlist.html
-mlist2      = http://senshiweb.webhop.net/mlist2.txt
-mlist_html  = http://senshiweb.webhop.net/mlist.html
-mixring     = http://senshiweb.webhop.net/pubring.mix
-type2list   = http://senshiweb.webhop.net/type2.lis
 
 [zip2]
 base        = https://zip2.in/echolot/
