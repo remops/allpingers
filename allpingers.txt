@@ -21,19 +21,19 @@ mixring     = https://apricot.fruiti.org/echolot/pubring.mix
 type2list   = https://apricot.fruiti.org/echolot/type2.list
 
 [austria]
-base        = https://www.tahina.priv.at/~cm/stats/
-rlist       = https://www.tahina.priv.at/~cm/stats/rlist.txt
-mlist       = https://www.tahina.priv.at/~cm/stats/mlist.txt
-rlist2      = https://www.tahina.priv.at/~cm/stats/rlist2.txt
-mlist2      = https://www.tahina.priv.at/~cm/stats/mlist2.txt
-rlist_html  = https://www.tahina.priv.at/~cm/stats/rlist.html
-mlist_html  = https://www.tahina.priv.at/~cm/stats/mlist.html
-rlist2_html = https://www.tahina.priv.at/~cm/stats/rlist2.html
-mlist2_html = https://www.tahina.priv.at/~cm/stats/mlist2.html
-pgpring     = https://www.tahina.priv.at/~cm/stats/pgp-all.asc
-pgpring_rsa = https://www.tahina.priv.at/~cm/stats/pgp-rsa.asc
-mixring     = https://www.tahina.priv.at/~cm/stats/pubring.mix
-type2list   = https://www.tahina.priv.at/~cm/stats/type2.list
+base        = https://www.tahina.priv.at/pinger/classic/
+rlist       = https://www.tahina.priv.at/pinger/classic/rlist.txt
+mlist       = https://www.tahina.priv.at/pinger/classic/mlist.txt
+rlist2      = https://www.tahina.priv.at/pinger/classic/rlist2.txt
+mlist2      = https://www.tahina.priv.at/pinger/classic/mlist2.txt
+rlist_html  = https://www.tahina.priv.at/pinger/classic/rlist.html
+mlist_html  = https://www.tahina.priv.at/pinger/classic/mlist.html
+rlist2_html = https://www.tahina.priv.at/pinger/classic/rlist2.html
+mlist2_html = https://www.tahina.priv.at/pinger/classic/mlist2.html
+pgpring     = https://www.tahina.priv.at/pinger/classic/pgp-all.asc
+pgpring_rsa = https://www.tahina.priv.at/pinger/classic/pgp-rsa.asc
+mixring     = https://www.tahina.priv.at/pinger/classic/pubring.mix
+type2list   = https://www.tahina.priv.at/pinger/classic/type2.list
 
 [borked]
 base        = https://pinger.borked.net/
