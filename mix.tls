@@ -1,4 +1,4 @@
-Last update: Sun Dec 27 06:46:12 UTC 2020 For info on fields see: https://www.sec3.net/misc/TLS-info.html
+Last update: Sun Jan  3 06:45:46 UTC 2021 For info on fields see: https://www.sec3.net/misc/TLS-info.html
 austria=remailer.privacy.at,0,yes,no,no,no
 banana=fleegle.mixmin.net,10,yes,yes,no,yes
 beaufusil=faim.beaufusil.com,10,yes,no,no,no
@@ -12,7 +12,6 @@ incog=mail.mixport.xyz,1,yes,yes,no,yes
 inwtx=mail.mixharbor.xyz,1,yes,yes,no,yes
 krautrelay=krautrelay.kraut.space,10,yes,no,no,no
 kreti=mail.hoi-polloi.org,10,yes,yes,yes,no
-kroken=rooty.uni-boeblingen.de,0,N/A,no,no,no,Connection refused
 lambton=www2.lambton.org,10,yes,no,no,no
 middleman=middleman.remailer.online,0,yes,no,no,no
 off=caputo.sec3.net,5,yes,yes,no,yes
@@ -21,7 +20,7 @@ redjohn=mail.redjohn.net,0,yes,no,no,no
 sfax=sfax.slugish.net,5,yes,yes,no,yes
 slow=fleegle.mixmin.net,10,yes,yes,no,yes
 tncmm=tncsrv05.tnetconsulting.net,20,yes,no,yes,no
-tncmm=tarbaby.junkemailfilter.com,99,yes,yes,yes,no
+tncmm=graymail.tnetconsulting.net,10,N/A,no,no,no,Connection refused
 tncmm=tncsrv06.tnetconsulting.net,15,yes,yes,yes,no
-tncmm=graymail.tnetconsulting.net,10,N/A,no,no,no,Connection timed out
+tncmm=tarbaby.junkemailfilter.com,99,yes,yes,yes,no
 zip2=mail.zip2.in,0,no,no,no,no
