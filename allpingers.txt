@@ -154,4 +154,3 @@ pgpring     = https://zip2.in/echolot/pgp-all.asc
 pgpring_rsa = https://zip2.in/echolot/pgp-rsa.asc
 mixring     = https://zip2.in/echolot/pubring.mix
 type2list   = https://zip2.in/echolot/type2.list
-
