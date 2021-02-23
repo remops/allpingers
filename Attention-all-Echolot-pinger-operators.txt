@@ -22,7 +22,7 @@ To review the code of Zax's modification to Echolot/Conf.pm see:
 
 https://github.com/crooks/echolot/commit/090a59506113e414097d83fe67cd9041edf43811
 
-The file Conf.pm in its modified form can be downloaded here:
+The file Conf.pm in its modified form can be downloaded here.
 
 https://raw.githubusercontent.com/crooks/echolot/master/Echolot/Conf.pm
 
