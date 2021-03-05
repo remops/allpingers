@@ -1,6 +1,6 @@
 #  A L L   P I N G E R S'   I N D E X
 #
-# Updated: Fri, 08 Jan 2021
+# Updated: Fri, 05 Mar 2021
 # This list was last updated by Steve Crook
 # Please email corrections/issues to: steve@mixmin.net
 #
@@ -139,18 +139,3 @@ pgpring     = https://sec3.net/echolot/pgp-all.asc
 pgpring_rsa = https://sec3.net/echolot/pgp-rsa.asc
 mixring     = https://sec3.net/echolot/pubring.mix
 type2list   = https://sec3.net/echolot/type2.list
-
-[zip2]
-base        = https://zip2.in/echolot/
-rlist       = https://zip2.in/echolot/rlist.txt
-mlist       = https://zip2.in/echolot/mlist.txt
-rlist2      = https://zip2.in/echolot/rlist2.txt
-mlist2      = https://zip2.in/echolot/mlist2.txt
-rlist_html  = https://zip2.in/echolot/rlist.html
-mlist_html  = https://zip2.in/echolot/mlist.html
-rlist2_html = https://zip2.in/echolot/rlist2.html
-mlist2_html = https://zip2.in/echolot/mlist2.html
-pgpring     = https://zip2.in/echolot/pgp-all.asc
-pgpring_rsa = https://zip2.in/echolot/pgp-rsa.asc
-mixring     = https://zip2.in/echolot/pubring.mix
-type2list   = https://zip2.in/echolot/type2.list
