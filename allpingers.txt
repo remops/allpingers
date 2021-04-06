@@ -1,24 +1,9 @@
 #  A L L   P I N G E R S'   I N D E X
 #
-# Updated: Fri, 05 Mar 2021
+# Updated: Tue, 06 Apr 2021
 # This list was last updated by Steve Crook
 # Please email corrections/issues to: steve@mixmin.net
 #
-
-[apricot]
-base        = https://apricot.fruiti.org/echolot/
-rlist       = https://apricot.fruiti.org/echolot/rlist.txt
-mlist       = https://apricot.fruiti.org/echolot/mlist.txt
-rlist2      = https://apricot.fruiti.org/echolot/rlist2.txt
-mlist2      = https://apricot.fruiti.org/echolot/mlist2.txt
-rlist_html  = https://apricot.fruiti.org/echolot/rlist.html
-mlist_html  = https://apricot.fruiti.org/echolot/mlist.html
-rlist2_html = https://apricot.fruiti.org/echolot/rlist2.html
-mlist2_html = https://apricot.fruiti.org/echolot/mlist2.html
-pgpring     = https://apricot.fruiti.org/echolot/pgp-all.asc
-pgpring_rsa = https://apricot.fruiti.org/echolot/pgp-rsa.asc
-mixring     = https://apricot.fruiti.org/echolot/pubring.mix
-type2list   = https://apricot.fruiti.org/echolot/type2.list
 
 [austria]
 base        = https://www.tahina.priv.at/pinger/classic/
