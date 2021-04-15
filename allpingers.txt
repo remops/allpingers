@@ -1,6 +1,6 @@
 #  A L L   P I N G E R S'   I N D E X
 #
-# Updated: Tue, 06 Apr 2021
+# Updated: Thu, 15 Apr 2021
 # This list was last updated by Steve Crook
 # Please email corrections/issues to: steve@mixmin.net
 #
@@ -109,18 +109,3 @@ pgpring     = https://remailer.paranoici.org/stats/pgp-all.asc
 pgpring_rsa = https://remailer.paranoici.org/stats/pgp-rsa.asc
 mixring     = https://remailer.paranoici.org/stats/pubring.mix
 type2list   = https://remailer.paranoici.org/stats/type2.list
-
-[sec3]
-base        = https://sec3.net/echolot/
-rlist       = https://sec3.net/echolot/rlist.txt
-mlist       = https://sec3.net/echolot/mlist.txt
-rlist2      = https://sec3.net/echolot/rlist2.txt
-mlist2      = https://sec3.net/echolot/mlist2.txt
-rlist_html  = https://sec3.net/echolot/rlist.html
-mlist_html  = https://sec3.net/echolot/mlist.html
-rlist2_html = https://sec3.net/echolot/rlist2.html
-mlist2_html = https://sec3.net/echolot/mlist2.html
-pgpring     = https://sec3.net/echolot/pgp-all.asc
-pgpring_rsa = https://sec3.net/echolot/pgp-rsa.asc
-mixring     = https://sec3.net/echolot/pubring.mix
-type2list   = https://sec3.net/echolot/type2.list
