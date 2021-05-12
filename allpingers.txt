@@ -1,6 +1,6 @@
 #  A L L   P I N G E R S'   I N D E X
 #
-# Updated: Mon, 12 Apr 2021
+# Updated: Wed, 12 May 2021
 # This list was last updated by SEC3
 # Please email corrections/issues to: pinger-admin@sec3.net
 #
@@ -110,3 +110,17 @@ pgpring_rsa = https://remailer.paranoici.org/stats/pgp-rsa.asc
 mixring     = https://remailer.paranoici.org/stats/pubring.mix
 type2list   = https://remailer.paranoici.org/stats/type2.list
 
+[tincture]
+base        = https://tincture.ws/pinger/classic/
+rlist       = https://tincture.ws/pinger/classic/rlist.txt
+mlist       = https://tincture.ws/pinger/classic/mlist.txt
+rlist2      = https://tincture.ws/pinger/classic/rlist2.txt
+mlist2      = https://tincture.ws/pinger/classic/mlist2.txt
+rlist_html  = https://tincture.ws/pinger/classic/rlist.html
+mlist_html  = https://tincture.ws/pinger/classic/mlist.html
+rlist2_html = https://tincture.ws/pinger/classic/rlist2.html
+mlist2_html = https://tincture.ws/pinger/classic/mlist2.html
+pgpring     = https://tincture.ws/pinger/classic/pgp-all.asc
+pgpring_rsa = https://tincture.ws/pinger/classic/pgp-rsa.asc
+mixring     = https://tincture.ws/pinger/classic/pubring.mix
+type2list   = https://tincture.ws/pinger/classic/type2.list
