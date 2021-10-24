@@ -1,7 +1,6 @@
-Last update: Wed 20 Oct 2021 15:10:00 AM UTC For info on fields see: https://www.sec3.net/misc/TLS-info.html
+Last update: Sun 24 Oct 2021 9:34:00 AM UTC For info on fields see: https://www.sec3.net/misc/TLS-info.html
 austria=remailer.privacy.at,0,yes,no,no,no
 banana=fleegle.mixmin.net,10,yes,yes,no,yes
-devurandom=mail.anonymitaet-im-inter.net,10,yes,no,no,no
 dizum=smtp.dizum.com,10,yes,no,no,no
 frell=mail2.frell.eu.org,10,yes,yes,yes,yes
 frell=bshc44ac76q3kskw.onion,5,N/A,no,no,no,Invalid argument
