@@ -1,6 +1,6 @@
 #  A L L   P I N G E R S'   I N D E X
 #
-# Updated: Wed, 12 May 2021
+# Updated: Sun, 13 Feb 2022
 # This list was last updated by SEC3
 # Please email corrections/issues to: pinger-admin@sec3.net
 #
@@ -34,21 +34,6 @@ pgpring     = https://pinger.borked.net/pgp-all.asc
 pgpring_rsa = https://pinger.borked.net/pgp-rsa.asc
 mixring     = https://pinger.borked.net/pubring.mix
 type2list   = https://pinger.borked.net/type2.list
-
-[deuxpi]
-base        = https://www.deuxpi.ca/echolot/
-rlist       = https://www.deuxpi.ca/echolot/rlist.txt
-mlist       = https://www.deuxpi.ca/echolot/mlist.txt
-rlist2      = https://www.deuxpi.ca/echolot/rlist2.txt
-mlist2      = https://www.deuxpi.ca/echolot/mlist2.txt
-rlist_html  = https://www.deuxpi.ca/echolot/rlist.html
-mlist_html  = https://www.deuxpi.ca/echolot/mlist.html
-rlist2_html = https://www.deuxpi.ca/echolot/rlist2.html
-mlist2_html = https://www.deuxpi.ca/echolot/mlist2.html
-pgpring     = https://www.deuxpi.ca/echolot/pgp-all.asc
-pgpring_rsa = https://www.deuxpi.ca/echolot/pgp-rsa.asc
-mixring     = https://www.deuxpi.ca/echolot/pubring.mix
-type2list   = https://www.deuxpi.ca/echolot/type2.list
 
 [devurandom]
 base        = https://echolot.anonymitaet-im-inter.net/
