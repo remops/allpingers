@@ -1,4 +1,4 @@
-Last update: Mon 7 Mar 2022 06:02:18 PM UTC For info on fields see: https://www.sec3.net/misc/TLS-info.html
+Last update: Sun 13 Mar 2022 03:01:35 PM UTC For info on fields see: https://www.sec3.net/misc/TLS-info.html
 banana=fleegle.mixmin.net,10,yes,yes,no,yes
 dizum=smtp.dizum.com,10,yes,no,no,no
 frell=mail2.frell.eu.org,10,yes,yes,yes,yes
@@ -7,7 +7,6 @@ frell2=mail2.frell.eu.org,10,yes,yes,yes,yes
 frell2=a6sy4mr4vpnnfhlop2vthsi4heaonouxtrat2hpz2dzbcf45twpxvzyd.onion,5,N/A,no,no,no,Invalid argument
 grotto=grotto.thenorthinn.com,5,yes,no,no,no
 hsub=fleegle.mixmin.net,10,yes,yes,no,yes
-inwtx=mail.mixharbor.xyz,1,N/A,no,no,no,Connection timed out
 krautrelay=krautrelay.kraut.space,10,yes,no,no,no
 middleman=middleman.remailer.online,0,yes,no,no,no
 orange=orange.mixport.net,10,yes,yes,no,yes
