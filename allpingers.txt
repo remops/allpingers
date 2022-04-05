@@ -1,6 +1,6 @@
 #  A L L   P I N G E R S'   I N D E X
 #
-# Updated: Mon, 7 Mar 2022
+# Updated: Tue, 5 Apr 2022
 # This list was last updated by SEC3
 # Please email corrections/issues to: pinger-admin@sec3.net
 #
@@ -64,21 +64,6 @@ pgpring     = https://www.mixmin.net/echolot/pgp-all.asc
 pgpring_rsa = https://www.mixmin.net/echolot/pgp-rsa.asc
 mixring     = https://www.mixmin.net/echolot/pubring.mix
 type2list   = https://www.mixmin.net/echolot/type2.list
-
-[paranoia]
-base        = https://remailer.paranoici.org/stats/echolot.html
-rlist       = https://remailer.paranoici.org/stats/rlist.txt
-mlist       = https://remailer.paranoici.org/stats/mlist.txt
-rlist2      = https://remailer.paranoici.org/stats/rlist2.txt
-mlist2      = https://remailer.paranoici.org/stats/mlist2.txt
-rlist_html  = https://remailer.paranoici.org/stats/rlist.html
-mlist_html  = https://remailer.paranoici.org/stats/mlist.html
-rlist2_html = https://remailer.paranoici.org/stats/rlist2.html
-mlist2_html = https://remailer.paranoici.org/stats/mlist2.html
-pgpring     = https://remailer.paranoici.org/stats/pgp-all.asc
-pgpring_rsa = https://remailer.paranoici.org/stats/pgp-rsa.asc
-mixring     = https://remailer.paranoici.org/stats/pubring.mix
-type2list   = https://remailer.paranoici.org/stats/type2.list
 
 [tincture]
 base        = https://tincture.ws/pinger/classic/
