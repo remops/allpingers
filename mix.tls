@@ -1,4 +1,4 @@
-Last update: Sun 13 Mar 2022 03:01:35 PM UTC For info on fields see: https://www.sec3.net/misc/TLS-info.html
+Last update: Sun 29 May 2022 3:23:05 PM UTC For info on fields see: https://www.sec3.net/misc/TLS-info.html
 banana=fleegle.mixmin.net,10,yes,yes,no,yes
 dizum=smtp.dizum.com,10,yes,no,no,no
 frell=mail2.frell.eu.org,10,yes,yes,yes,yes
@@ -10,7 +10,6 @@ krautrelay=krautrelay.kraut.space,10,yes,no,no,no
 middleman=middleman.remailer.online,0,yes,no,no,no
 orange=orange.mixport.net,10,yes,yes,no,yes
 paranoia=remailer.paranoici.org,10,yes,yes,yes,no
-redjohn=mail.redjohn.net,0,yes,no,no,no
 slow=fleegle.mixmin.net,10,yes,yes,no,yes
 tncmm=graymail.tnetconsulting.net,10,N/A,no,no,no,Connection refused
 tncmm=tncsrv05.tnetconsulting.net,20,yes,no,yes,no
