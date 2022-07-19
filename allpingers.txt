@@ -20,6 +20,21 @@ pgpring_rsa = https://pinger.borked.net/pgp-rsa.asc
 mixring     = https://pinger.borked.net/pubring.mix
 type2list   = https://pinger.borked.net/type2.list
 
+[frell]
+base        = http://echolot.theremailer.net/sideview/
+rlist       = http://echolot.theremailer.net/sideview/rlist.txt
+mlist       = http://echolot.theremailer.net/sideview/mlist.txt
+rlist2      = http://echolot.theremailer.net/sideview/rlist2.txt
+mlist2      = http://echolot.theremailer.net/sideview/mlist2.txt
+rlist_html  = http://echolot.theremailer.net/sideview/rlist.html
+mlist_html  = http://echolot.theremailer.net/sideview/mlist.html
+rlist2_html = http://echolot.theremailer.net/sideview/rlist2.html
+mlist2_html = http://echolot.theremailer.net/sideview/mlist2.html
+pgpring     = http://echolot.theremailer.net/sideview/pgp-all.asc
+pgpring_rsa = http://echolot.theremailer.net/sideview/pgp-rsa.asc
+mixring     = http://echolot.theremailer.net/sideview/pubring.mix
+type2list   = http://echolot.theremailer.net/sideview/type2.list
+
 [mixmin]
 base        = https://www.mixmin.net/echolot/
 rlist       = https://www.mixmin.net/echolot/rlist.txt
