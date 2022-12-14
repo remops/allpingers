@@ -1,6 +1,6 @@
 #  A L L   P I N G E R S'   I N D E X
 #
-# Updated: Sat, 17 Sep 2022
+# Updated: Wed, 14 Dec 2022
 # This list was last updated by SEC3
 # Please email corrections/issues to: pinger-admin@sec3.net
 #
@@ -49,6 +49,21 @@ pgpring     = https://www.mixmin.net/echolot/pgp-all.asc
 pgpring_rsa = https://www.mixmin.net/echolot/pgp-rsa.asc
 mixring     = https://www.mixmin.net/echolot/pubring.mix
 type2list   = https://www.mixmin.net/echolot/type2.list
+
+[sec3]
+base        = https://www.sec3.net/stats/
+rlist       = https://www.sec3.net/stats/rlist.txt
+mlist       = https://www.sec3.net/stats/mlist.txt
+rlist2      = https://www.sec3.net/stats/rlist2.txt
+mlist2      = https://www.sec3.net/stats/mlist2.txt
+rlist_html  = https://www.sec3.net/stats/rlist.html
+mlist_html  = https://www.sec3.net/stats/mlist.html
+rlist2_html = https://www.sec3.net/stats/rlist2.html
+mlist2_html = https://www.sec3.net/stats/mlist2.html
+pgpring     = https://www.sec3.net/stats/pgp-all.asc
+pgpring_rsa = https://www.sec3.net/stats/pgp-rsa.asc
+mixring     = https://www.sec3.net/stats/pubring.mix
+type2list   = https://www.sec3.net/stats/type2.list
 
 [tincture]
 base        = https://tincture.ws/pinger/classic/
