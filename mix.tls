@@ -1,4 +1,4 @@
-Last update: Tue Oct 11 10:44:37 UTC 2022 For info on fields see: https://www.sec3.net/misc/TLS-info.html
+Last update: Sun Jan 29 01:15:02 UTC 2023 For info on fields see: https://www.sec3.net/misc/TLS-info.html
 banana=fleegle.mixmin.net,10,yes,yes,no,yes
 dizum=smtp.dizum.com,10,yes,no,no,no
 frell=a6sy4mr4vpnnfhlop2vthsi4heaonouxtrat2hpz2dzbcf45twpxvzyd.onion,5,N/A,no,no,no,Invalid argument
@@ -7,7 +7,6 @@ frell2=mail2.frell.eu.org,10,yes,yes,yes,yes
 frell2=a6sy4mr4vpnnfhlop2vthsi4heaonouxtrat2hpz2dzbcf45twpxvzyd.onion,5,N/A,no,no,no,Invalid argument
 hsub=fleegle.mixmin.net,10,yes,yes,no,yes
 ipsum=ipsum.eocto.net,5,yes,no,no,no
-krautrelay=krautrelay.kraut.space,10,yes,no,no,no
 micromix=zend.micromix.org,5,yes,no,no,no
 middleman=middleman.remailer.online,0,yes,no,no,no
 paranoia=remailer.paranoici.org,10,yes,yes,yes,no
