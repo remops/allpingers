@@ -1,17 +1,18 @@
-Last update: Sun Mar 5 18:05:02 UTC 2023 For info on fields see: https://www.sec3.net/misc/TLS-info.html
+Last update: Tue Apr 11 10:46:28 UTC 2023 For info on fields see: https://www.sec3.net/misc/TLS-info.html
 banana=fleegle.mixmin.net,10,yes,yes,no,yes
 dizum=smtp.dizum.com,10,yes,no,no,no
 frell=a6sy4mr4vpnnfhlop2vthsi4heaonouxtrat2hpz2dzbcf45twpxvzyd.onion,5,N/A,no,no,no,Invalid argument
 frell=mail2.frell.eu.org,10,yes,yes,yes,yes
-frell2=mail2.frell.eu.org,10,yes,yes,yes,yes
 frell2=a6sy4mr4vpnnfhlop2vthsi4heaonouxtrat2hpz2dzbcf45twpxvzyd.onion,5,N/A,no,no,no,Invalid argument
+frell2=mail2.frell.eu.org,10,yes,yes,yes,yes
 hsub=fleegle.mixmin.net,10,yes,yes,no,yes
 ipsum=ipsum.eocto.net,10,yes,no,no,no
 micromix=zend.micromix.org,5,yes,no,no,no
 middleman=middleman.remailer.online,0,yes,no,no,no
 paranoia=remailer.paranoici.org,10,yes,yes,yes,no
+shalo=ecosse.shalo.ca,10,yes,no,no,no
 slow=fleegle.mixmin.net,10,yes,yes,no,yes
-tncmm=tarbaby.junkemailfilter.com,99,yes,yes,yes,no
-tncmm=tncsrv06.tnetconsulting.net,15,yes,yes,yes,yes
-tncmm=graymail.tnetconsulting.net,10,N/A,no,no,no,Connection refused
 tncmm=tncsrv05.tnetconsulting.net,20,yes,no,yes,no
+tncmm=tarbaby.junkemailfilter.com,99,yes,yes,yes,no
+tncmm=graymail.tnetconsulting.net,10,N/A,no,no,no,Connection refused
+tncmm=tncsrv06.tnetconsulting.net,15,yes,yes,yes,yes
