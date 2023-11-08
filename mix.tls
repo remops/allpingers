@@ -1,5 +1,6 @@
-Last update: Sun Oct 1 17:12:00 UTC 2023 For info on fields see: https://www.sec3.net/misc/TLS-info.html
+Last update: Wed Nov 8 12:06:00 UTC 2023 For info on fields see: https://www.sec3.net/misc/TLS-info.html
 banana=fleegle.mixmin.net,10,yes,yes,no,yes
+beaufusil=elie.beaufusil.com,10,yes,no,no,no
 dizum=smtp.dizum.com,10,yes,no,no,no
 frell=a6sy4mr4vpnnfhlop2vthsi4heaonouxtrat2hpz2dzbcf45twpxvzyd.onion,5,N/A,no,no,no,Invalid argument
 frell=mail2.frell.eu.org,10,yes,yes,yes,yes
