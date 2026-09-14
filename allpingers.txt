@@ -1,24 +1,6 @@
 #  A L L   P I N G E R S'   I N D E X
 #
-# Updated: Mon, 8 Jul 2024
-# This list was last updated by SEC3
-# Please email corrections/issues to: pinger-admin@sec3.net
-#
-
-[borked]
-base        = https://pinger.borked.net/
-rlist       = https://pinger.borked.net/rlist.txt
-mlist       = https://pinger.borked.net/mlist.txt
-rlist2      = https://pinger.borked.net/rlist2.txt
-mlist2      = https://pinger.borked.net/mlist2.txt
-rlist_html  = https://pinger.borked.net/rlist.html
-mlist_html  = https://pinger.borked.net/mlist.html
-rlist2_html = https://pinger.borked.net/rlist2.html
-mlist2_html = https://pinger.borked.net/mlist2.html
-pgpring     = https://pinger.borked.net/pgp-all.asc
-pgpring_rsa = https://pinger.borked.net/pgp-rsa.asc
-mixring     = https://pinger.borked.net/pubring.mix
-type2list   = https://pinger.borked.net/type2.list
+# Updated: Sun, 16 Aug 2026
 
 [frell]
 base        = http://echolot.theremailer.net/sideview/
@@ -34,48 +16,3 @@ pgpring     = http://echolot.theremailer.net/sideview/pgp-all.asc
 pgpring_rsa = http://echolot.theremailer.net/sideview/pgp-rsa.asc
 mixring     = http://echolot.theremailer.net/sideview/pubring.mix
 type2list   = http://echolot.theremailer.net/sideview/type2.list
-
-[mixmin]
-base        = https://www.mixmin.net/echolot/
-rlist       = https://www.mixmin.net/echolot/rlist.txt
-mlist       = https://www.mixmin.net/echolot/mlist.txt
-rlist2      = https://www.mixmin.net/echolot/rlist2.txt
-mlist2      = https://www.mixmin.net/echolot/mlist2.txt
-rlist_html  = https://www.mixmin.net/echolot/rlist.html
-mlist_html  = https://www.mixmin.net/echolot/mlist.html
-rlist2_html = https://www.mixmin.net/echolot/rlist2.html
-mlist2_html = https://www.mixmin.net/echolot/mlist2.html
-pgpring     = https://www.mixmin.net/echolot/pgp-all.asc
-pgpring_rsa = https://www.mixmin.net/echolot/pgp-rsa.asc
-mixring     = https://www.mixmin.net/echolot/pubring.mix
-type2list   = https://www.mixmin.net/echolot/type2.list
-
-[sec3]
-base        = https://www.sec3.net/stats/
-rlist       = https://www.sec3.net/stats/rlist.txt
-mlist       = https://www.sec3.net/stats/mlist.txt
-rlist2      = https://www.sec3.net/stats/rlist2.txt
-mlist2      = https://www.sec3.net/stats/mlist2.txt
-rlist_html  = https://www.sec3.net/stats/rlist.html
-mlist_html  = https://www.sec3.net/stats/mlist.html
-rlist2_html = https://www.sec3.net/stats/rlist2.html
-mlist2_html = https://www.sec3.net/stats/mlist2.html
-pgpring     = https://www.sec3.net/stats/pgp-all.asc
-pgpring_rsa = https://www.sec3.net/stats/pgp-rsa.asc
-mixring     = https://www.sec3.net/stats/pubring.mix
-type2list   = https://www.sec3.net/stats/type2.list
-
-[tincture]
-base        = https://tincture.ws/pinger/classic/
-rlist       = https://tincture.ws/pinger/classic/rlist.txt
-mlist       = https://tincture.ws/pinger/classic/mlist.txt
-rlist2      = https://tincture.ws/pinger/classic/rlist2.txt
-mlist2      = https://tincture.ws/pinger/classic/mlist2.txt
-rlist_html  = https://tincture.ws/pinger/classic/rlist.html
-mlist_html  = https://tincture.ws/pinger/classic/mlist.html
-rlist2_html = https://tincture.ws/pinger/classic/rlist2.html
-mlist2_html = https://tincture.ws/pinger/classic/mlist2.html
-pgpring     = https://tincture.ws/pinger/classic/pgp-all.asc
-pgpring_rsa = https://tincture.ws/pinger/classic/pgp-rsa.asc
-mixring     = https://tincture.ws/pinger/classic/pubring.mix
-type2list   = https://tincture.ws/pinger/classic/type2.list
